@@ -44,4 +44,9 @@ Tidder was a project similar to Reddit for the purposes of learning and using re
 - Angular
 - JavaScript
 
-## TBA
+## Linux Shell
+### Summary
+I created a simple Linux shell program complete with all basic functions such as process management, interrupt handlers for keyboard shortcuts, and the default Linux commands.
+### Tools
+- Linux
+- C 
